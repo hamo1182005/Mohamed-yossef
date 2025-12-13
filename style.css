@@ -272,10 +272,10 @@ img{
     border-left: solid 5px rgb(7, 3, 12);
     color:white;
     }
-    .sw{
-    font-size: 13px;
-     width: 80%;
-    height: 60px;
+    .sw h3{
+    font-size: 10px;
+     width: 100%;
+    height: 70px;
     border: solid 2px white;
     border-radius: 50px;
     padding: 5px 10px;
